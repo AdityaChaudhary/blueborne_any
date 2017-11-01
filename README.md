@@ -1,3 +1,8 @@
+UPDATE
+======
+* Fixed driver issue with CSR bluetooth driver. This script now works with all bluetooth drivers.   - Aditya Chaudhary
+
+
 BlueBorne Android Exploit PoC
 =============================
 
